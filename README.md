@@ -25,7 +25,7 @@ A little bit about me...
 
 - 🔭 I’m working on a meditation app for fun
 
-- 🌱 I’m currently learning Docker 
+- 🌱 I’m currently learning Ruby/Rails and Elixir
 
 - ⚡️ Fun fact: I'm also a yoga and meditation teacher
 
